@@ -1,14 +1,14 @@
-# 🧠 Smart Task Planner
+#  Smart Task Planner
 
 An AI-powered planner that breaks down your goal into actionable tasks with timelines and dependencies.
 
-## 🚀 Features
+##  Features
 - Enter any goal (e.g., “Launch a product in 2 weeks”)
 - AI generates a structured plan with tasks, dependencies, and timelines
 - FastAPI backend with LLM integration
 - Optional simple frontend (HTML/JS/CSS)
 
-## 🏗️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Backend
 ```bash
